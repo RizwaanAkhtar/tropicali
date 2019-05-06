@@ -18,6 +18,7 @@
   "homepage": "https://github.com/RizwaanAkhtar/tropicali#readme",
   "devDependencies": {
     "browser-sync": "^2.26.5",
+    "gh-pages": "^2.0.1",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^4.2.0",
     "gulp-imagemin": "^5.0.3",
